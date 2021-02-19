@@ -8,3 +8,4 @@ Chat with friends, enjoy and leave the room.
 Want to chat right now? Visit https://weshare.netlify.app
 
 ##### Note: JoinIn page of WeShare is case-sensitive. Make sure you share the room name should be AS IT IS with your friends.
+ 
