@@ -2,7 +2,8 @@
 
 ### Welcome to WeShare!
 
-This is a WEB CHAT APPLICATION made using ReactJS, ExpressJS, NodeJS and SocketIO. Just join-in in a room and share the room name with your friends. That's it. 
+This is a REALTIME WEB CHAT APPLICATION made using ReactJS, ExpressJS, NodeJS and SocketIO. 
+Just join-in in a room with a unique username and share the room-name with your friends. That's it. 
 Chat with friends, enjoy and leave the room.
 
 Want to chat right now? Visit https://weshare.netlify.app
